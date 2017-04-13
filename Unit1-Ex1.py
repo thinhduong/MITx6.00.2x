@@ -22,3 +22,4 @@ class Unit1_Ex1:
 a = Unit1_Ex1()
 for i in a.powerSet([1, 2, 3]):
     print i
+    
